@@ -1,0 +1,5 @@
+projectKey=PrimeFactors
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/PrimeFactors
+ceTaskId=AYI8YZt0GkNMg6RxTcsj
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYI8YZt0GkNMg6RxTcsj
